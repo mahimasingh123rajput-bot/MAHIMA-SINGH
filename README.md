@@ -1,8 +1,24 @@
 <h1 align="center">Hi, I'm Mahima Singh 👋</h1>
 
+<h3 align="center">💻 BCA Student | 🏆 Semester Topper | 🚀 Aspiring Software Developer</h3>
+
 <p align="center">
-  <b>BCA Student | Semester Topper | Aspiring Software Developer</b><br>
-  Turning ideas into working code with C, C++, JavaScript and SQL
+  <i>I turn ideas into working software using C, C++, JavaScript and SQL.</i>
+</p>
+
+<p align="center">
+  📍 Bihar, India &nbsp;|&nbsp; 🎓 Pursuing BCA &nbsp;|&nbsp; 💼 Open to Internships
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/your-username">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:your-email@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=YOUR-USERNAME&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
+</p>
 </p>
 
 <p align="center">
@@ -54,8 +70,42 @@ I began with C and C++ to build strong programming logic, then moved to JavaScri
 </p>
 
 ## 📫 Let's Connect
-- 💼 LinkedIn: [your LinkedIn link]
-- 📧 Email: [your email]
-- 🌐 Portfolio: [your website link]
+- 💼 LinkedIn: []https://github.com/mahimasingh123rajput-bot/MAHIMA-SINGH/blob/main/README.md
+- 📧 Email: [mahimasingh123rajput@gmail.com]
+- 🌐 Portfolio: [developer]
 
 <p align="center"><i>"Code is like humor. When you have to explain it, it's bad."</i></p>
+## 🏆 Achievements
+- 🥇 Top performer in every semester of BCA
+- 💻 Solved [number] problems on HackerRank / LeetCode
+- 📜 Completed [course name] certification
+
+## 🔥 Currently Learning
+- ⚛️ React and Node.js
+- 🧮 Data Structures & Algorithms in C++
+- 🗄️ Advanced SQL queries
+
+## 🗺️ My Roadmap
+- [x] Learn C and C++ fundamentals
+- [x] Learn JavaScript and MySQL basics
+- [ ] Build a full-stack web project
+- [ ] Complete 100 DSA problems
+- [ ] Get my first internship
+
+## 📝 Learning Notes
+I share my notes and what I learn while building projects:
+- [C++ OOP Notes](link)
+- [SQL Cheat Sheet](link)
+
+## 🤝 Open To
+- 💼 Internships and entry-level software roles
+- 👥 Team projects and collaboration
+- 🌱 Learning from experienced developers
+
+## 💬 Fun Facts
+- ☕ I code best late at night
+- 🎯 My goal: become a software developer
+- 📚 I love explaining concepts to friends
+
+## 📄 Resume
+[⬇️ Download my resume](your-resume-link)
