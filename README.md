@@ -108,4 +108,4 @@ I share my notes and what I learn while building projects:
 - 📚 I love explaining concepts to friends
 
 ## 📄 Resume
-[⬇️ Download my resume](your-resume-link)
+[⬇️ Download my resume]()
